@@ -1,0 +1,73 @@
+[
+    {
+      "customer_id": "cust_001",
+      "order_id": "ORD1001",
+      "order_status": "Shipped",
+      "order_date": "2025-05-15",
+      "items": ["Wireless Mouse", "USB-C Adapter"]
+    },
+    {
+      "customer_id": "cust_002",
+      "order_id": "ORD1002",
+      "order_status": "Delivered",
+      "order_date": "2025-05-10",
+      "items": ["Bluetooth Speaker"]
+    },
+    {
+      "customer_id": "cust_003",
+      "order_id": "ORD1003",
+      "order_status": "Processing",
+      "order_date": "2025-05-18",
+      "items": ["Laptop Stand", "Notebook Cooling Pad"]
+    },
+    {
+      "customer_id": "cust_004",
+      "order_id": "ORD1004",
+      "order_status": "Cancelled",
+      "order_date": "2025-05-12",
+      "items": ["Smartwatch"]
+    },
+    {
+      "customer_id": "cust_005",
+      "order_id": "ORD1005",
+      "order_status": "Delivered",
+      "order_date": "2025-05-09",
+      "items": ["Noise Cancelling Headphones", "Charging Cable"]
+    },
+    {
+      "customer_id": "cust_006",
+      "order_id": "ORD1006",
+      "order_status": "Shipped",
+      "order_date": "2025-05-17",
+      "items": ["Desk Lamp", "USB Hub"]
+    },
+    {
+      "customer_id": "cust_007",
+      "order_id": "ORD1007",
+      "order_status": "On Hold",
+      "order_date": "2025-05-13",
+      "items": ["Mechanical Keyboard"]
+    },
+    {
+      "customer_id": "cust_008",
+      "order_id": "ORD1008",
+      "order_status": "Returned",
+      "order_date": "2025-05-05",
+      "items": ["Fitness Tracker", "Extra Bands"]
+    },
+    {
+      "customer_id": "cust_009",
+      "order_id": "ORD1009",
+      "order_status": "Processing",
+      "order_date": "2025-05-19",
+      "items": ["Wireless Earbuds"]
+    },
+    {
+      "customer_id": "cust_010",
+      "order_id": "ORD1010",
+      "order_status": "Delivered",
+      "order_date": "2025-05-08",
+      "items": ["Tablet", "Protective Case"]
+    }
+  ]
+  
